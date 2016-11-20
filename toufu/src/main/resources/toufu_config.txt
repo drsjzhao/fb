@@ -1,0 +1,3 @@
+{
+      "fbook.server":"${fbook.server}"
+}
