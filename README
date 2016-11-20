@@ -1,1 +1,14 @@
 a demo project base on elo rating system , in the manner of facebook!
+
+========================================================================
+
+instructions:
+
+
+    here are two maven web projects:toufu and fbook
+
+    fist you run fbook,which is base on restful,spring-mongodb-data and spring mvc,you should create some person by PersonClient.java
+
+    then if the fbook is work well,you can run the toufu project,which is a demo project,when you run succeed,you can see a select photo ui interface
+
+    and i will continue improve this project,thank you!
